@@ -1,2 +1,3 @@
 # multi_task_learning
-Multi task learning
+
+Please, check the new version of this repo here: https://github.com/pauloesampaio/multitask_learning
